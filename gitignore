@@ -1,0 +1,6 @@
+.env
+data/eu_ai_act/
+data/eu_ai_act.html
+__pycache__/
+*.pyc
+.venv/
