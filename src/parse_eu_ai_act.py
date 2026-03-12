@@ -1,15 +1,8 @@
 """
-Parse the EU AI Act from a locally saved EUR-Lex HTML file.
+Parses the EU AI Act from a locally saved EUR-Lex HTML file.
 
-Converts HTML to plain text, then splits by regex into recitals, articles, and annexes.
-Articles are grouped by chapter into subdirectories.
-
-Setup:
-  1. Open https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202401689
-  2. Save the page as HTML (Ctrl+S) into data/eu_ai_act.html
-
-Usage:
-  python src/parse_eu_ai_act.py
+Converts HTML to plain text, then splits into recitals, articles, and annexes by regex.
+Articles are grouped into subdirectories by chapter.
 """
 
 import os
