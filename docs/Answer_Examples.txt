@@ -1,0 +1,234 @@
+QUESTION: What AI practices are completely prohibited under the EU AI Act?
+
+--- RAG ANSWER ---
+
+Based on the provided context, the EU AI Act completely prohibits the following AI practices under **Article 5**:
+
+## Prohibited AI Practices
+
+**1. Manipulative and Deceptive AI Systems (Article 5(1)(a))**
+- AI systems that deploy **subliminal techniques beyond a person's consciousness** or **purposefully manipulative or deceptive techniques**
+- These must have the objective or effect of **materially distorting behavior** by appreciably impairing the ability to make informed decisions
+- Must cause people to make decisions they wouldn't otherwise make in a manner that causes or is reasonably likely to cause **significant harm**
+
+**2. Exploitative AI Systems Targeting Vulnerabilities (Article 5(1)(b))**
+- AI systems that exploit vulnerabilities of persons due to:
+  - **Age**
+  - **Disability**
+  - **Specific social or economic situation**
+- Must materially distort behavior in a manner that causes or is reasonably likely to cause **significant harm**
+
+**3. Social Scoring Systems (Article 5(1)(c))**
+- AI systems for evaluating or classifying persons over time based on social behavior or personal characteristics
+- Where the social score leads to:
+  - **Detrimental treatment in unrelated social contexts**, or
+  - **Unjustified or disproportionate treatment** relative to the social behavior
+
+**4. Predictive Criminal Risk Assessment (Article 5(1)(d))**
+- AI systems for assessing risk of criminal offenses based **solely on profiling** or personality assessment
+- **Exception**: Systems supporting human assessment based on objective, verifiable facts directly linked to criminal activity are permitted
+
+**5. Facial Recognition Database Creation (Article 5(1)(e))**
+- AI systems that create or expand facial recognition databases through **untargeted scraping** of facial images from internet or CCTV footage
+
+**6. Emotion Recognition in Specific Contexts (Article 5(1)(f))**
+- AI systems inferring emotions in **workplace and education institutions**
+- **Exception**: Medical or safety purposes (though the full exception text is cut off in the provided context)
+
+## Important Clarifications
+
+**Recital 29** clarifies that:
+- **Intent is not required** - providers/deployers don't need intention to cause harm if harm results from manipulative practices
+- **External factors** beyond the provider's control that cause distortion may not constitute prohibited practices
+- **Lawful medical practices** (psychological treatment, rehabilitation) with proper consent are not affected
+- **Legitimate commercial practices** like advertising that comply with applicable law are not considered harmful manipulation
+
+These prohibitions complement existing consumer protection laws and are grounded in protecting fundamental EU values including human dignity, freedom, equality, and democracy (**Recital 28**).
+
+**Sources: Article 5(1)(a)-(f), Recitals 28, 29**
+
+Sources:
+  - recital_29 (recitals)
+  - recital_29 (recitals)
+  - recital_28 (recitals)
+  - Article_5_Prohibited_AI_practices (Chapter_II_PROHIBITED_AI_PRACTICES)
+  - recital_46 (recitals)
+
+--- DIRECT ANSWER ---
+
+Under the EU AI Act, several AI practices are completely prohibited as they are considered to pose unacceptable risks. These prohibited practices include:
+
+## 1. Subliminal Techniques
+AI systems that use subliminal techniques beyond a person's consciousness to materially distort behavior in a way that causes or is likely to cause harm.
+
+## 2. Exploiting Vulnerabilities
+AI systems that exploit vulnerabilities of specific groups (due to age, disability, or social/economic circumstances) to materially distort behavior in harmful ways.
+
+## 3. Social Scoring by Public Authorities
+AI systems used by public authorities (or on their behalf) for evaluating or classifying people based on social behavior or personal characteristics, leading to:
+- Detrimental treatment unrelated to the context of evaluation
+- Treatment disproportionate to the social behavior or its gravity
+
+## 4. Real-time Remote Biometric Identification in Public Spaces
+Real-time remote biometric identification systems in publicly accessible spaces for law enforcement purposes, **except** for specific, limited exceptions such as:
+- Searching for victims of abduction, trafficking, or sexual exploitation
+- Preventing imminent terrorist attacks
+- Locating suspects of serious crimes
+
+## 5. Biometric Categorization Systems
+AI systems that categorize people based on biometric data to infer sensitive attributes like:
+- Race or ethnic origin
+- Political opinions
+- Trade union membership
+- Religious or philosophical beliefs
+- Sex life or sexual orientation
+
+## 6. Emotion Recognition in Specific Contexts
+AI systems for emotion recognition in:
+- Workplace settings
+- Educational institutions
+
+**Exception**: Systems used for medical or safety reasons.
+
+These prohibitions apply regardless of the AI system's risk level classification and carry significant penalties for non-compliance, including fines up to €35 million or 7% of global annual turnover.
+
+======================================================================
+
+QUESTION: What are the specific fines in euros for non-compliance with prohibited AI practices vs. other violations?
+
+--- RAG ANSWER ---
+
+Based on the provided context, the EU AI Act establishes different fine structures depending on who is being penalized and the type of violation:
+
+## For General Operators (Article 99)
+
+**Prohibited AI Practices (Article 5 violations):**
+- Up to **EUR 35,000,000** OR up to **7% of total worldwide annual turnover** for the preceding financial year, whichever is higher
+
+**Other Violations:**
+- Up to **EUR 15,000,000** OR up to **3% of total worldwide annual turnover** for the preceding financial year, whichever is higher (for violations of specific operator obligations listed in Article 99(4))
+- Up to **EUR 7,500,000** OR up to **1% of total worldwide annual turnover** for the preceding financial year, whichever is higher (for supplying incorrect, incomplete or misleading information)
+
+## For Union Institutions (Article 100)
+
+**Prohibited AI Practices (Article 5 violations):**
+- Up to **EUR 1,500,000**
+
+**Other Violations:**
+- Up to **EUR 750,000**
+
+## For General-Purpose AI Model Providers (Article 101)
+
+- Up to **3% of annual total worldwide turnover** in the preceding financial year OR **EUR 15,000,000**, whichever is higher
+
+## Special Provisions for SMEs
+
+Article 99(6) provides that for small and medium enterprises (SMEs), including start-ups, fines shall be limited to whichever is lower between the percentage-based fine or the fixed euro amount.
+
+The regulation clearly establishes that violations of prohibited AI practices under Article 5 carry the highest penalties, reflecting their severity, while other compliance failures are subject to lower but still substantial fines.
+
+**Sources:** Article 99(3)-(6), Article 100(2)-(3), Article 101(1)
+
+Sources:
+  - Article_100_Administrative_fines_on_Union_institutions_bodies_ (Chapter_XII_PENALTIES)
+  - Article_99_Penalties (Chapter_XII_PENALTIES)
+  - Article_99_Penalties (Chapter_XII_PENALTIES)
+  - Article_101_Fines_for_providers_of_general-purpose_AI_models (Chapter_XII_PENALTIES)
+  - recital_169 (recitals)
+
+--- DIRECT ANSWER ---
+
+Under the EU AI Act, the fines are structured in tiers based on the severity of the violation:
+
+## Prohibited AI Practices (Highest Fines)
+- **Up to €35 million** OR **7% of total worldwide annual turnover** (whichever is higher)
+- This applies to violations of prohibited AI systems under Article 5
+
+## Other High-Risk Violations
+- **Up to €15 million** OR **3% of total worldwide annual turnover** (whichever is higher)
+- This includes:
+  - Non-compliance with obligations for high-risk AI systems
+  - Non-compliance with obligations for AI models with systemic risk
+  - Violations related to notified bodies
+## General Violations
+- **Up to €7.5 million** OR **1.5% of total worldwide annual turnover** (whichever is higher)
+- This covers:
+  - Supply of incorrect, incomplete, or misleading information to notifying authorities
+  - Non-compliance with transparency obligations for certain AI systems
+  - Other violations not covered in the higher tiers
+
+## Key Points:
+- For companies with annual turnover below certain thresholds, the percentage-based fines may be lower than the fixed amounts
+- The "whichever is higher" rule means large tech companies could face substantial percentage-based penalties
+- These are **maximum** amounts - actual fines will depend on factors like severity, duration, cooperation with authorities, and the company's efforts to mitigate harm
+
+The significant difference between prohibited practices (€35M/7%) and other violations reflects the EU's intent to create strong deterrents against the most harmful AI applications.
+
+======================================================================
+
+QUESTION: What are the 12 elements that must be included in the EU declaration of conformity according to Annex V?
+
+--- RAG ANSWER ---
+
+Based on the provided context, Annex V specifies **8 elements** (not 12) that must be included in the EU declaration of conformity. Here are the required elements:
+
+## Required Elements in EU Declaration of Conformity (Annex V):
+
+1. **AI system identification**: AI system name and type and any additional unambiguous reference allowing the identification and traceability of the AI system
+
+2. **Provider information**: The name and address of the provider or, where applicable, of their authorised representative
+
+3. **Responsibility statement**: A statement that the EU declaration of conformity referred to in Article 47 is issued under the sole responsibility of the provider
+
+4. **Conformity statement**: A statement that the AI system is in conformity with this Regulation and, if applicable, with any other relevant Union law that provides for the issuing of the EU declaration of conformity referred to in Article 47
+
+5. **Personal data compliance**: Where an AI system involves the processing of personal data, a statement that that AI system complies with Regulations (EU) 2016/679 and (EU) 2018/1725 and Directive (EU) 2016/680
+
+6. **Standards references**: References to any relevant harmonised standards used or any other common specification in relation to which conformity is declared
+
+7. **Notified body information**: Where applicable, the name and identification number of the notified body, a description of the conformity assessment procedure performed, and identification of the certificate issued
+
+8. **Declaration details**: The place and date of issue of the declaration, the name and function of the person who signed it, as well as an indication for, or on behalf of whom, that person signed, a signature
+
+**Source**: Annex V EU declaration of conformity, as referenced in Article 47 of the EU AI Act.
+
+Note that the context provided does not contain information about 12 elements - only these 8 elements are specified in the available text from Annex V.
+
+Sources:
+  - Article_47_EU_declaration_of_conformity (Chapter_III_HIGH-RISK_AI_SYSTEMS)
+  - Annex_V_EU_declaration_of_conformity (annexes)
+  - Article_11_Technical_documentation (Chapter_III_HIGH-RISK_AI_SYSTEMS)
+  - Article_83_Formal_non-compliance (Chapter_IX_POST-MARKET_MONITORING_INFORMATION_SHARING_AND_MARKET_SURVEILLANCE)
+  - Article_43_Conformity_assessment (Chapter_III_HIGH-RISK_AI_SYSTEMS)
+
+--- DIRECT ANSWER ---
+
+According to Annex V of the EU AI Act, the EU declaration of conformity must contain the following 12 elements:
+
+1. **AI system name and type** and any additional unambiguous reference allowing for the identification and traceability of the AI system
+
+2. **Name and address of the provider** or, where applicable, their authorised representative
+
+3. **Statement that the EU declaration of conformity is issued under the sole responsibility** of the provider
+
+4. **Statement that the AI system in question is in conformity** with this Regulation and, if applicable, with any other relevant Union legislation that provides for the issuing of an EU declaration of conformity
+
+5. **References to any relevant harmonised standards used** or references to the specifications in relation to which conformity is declared
+
+6. **Where applicable, the name and identification number of the notified body**, the description of the conformity assessment procedure performed and identification of the certificate(s) issued
+
+7. **Where applicable, additional information**
+
+8. **Place and date of issue**
+
+9. **Name and function of the person empowered to sign** on behalf of the provider or their authorised representative, as well as an indication of whether that person signed for the provider or the authorised representative
+
+10. **Signature**
+
+11. **Where the AI system is subject to other Union legislation that also requires an EU declaration of conformity**, information that the declaration covers all applicable Union legislation
+
+12. **Where applicable, additional information** (this appears to be listed separately from element 7, though both refer to additional information)
+
+These elements ensure comprehensive documentation of the AI system's compliance with the EU AI Act requirements.
+
+======================================================================
